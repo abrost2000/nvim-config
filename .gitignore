@@ -1,0 +1,6 @@
+.DS_Store
+*.swp
+.netrwhist
+spell/*.swp
+nvim-pack-lock.json
+
